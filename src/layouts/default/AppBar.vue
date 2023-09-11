@@ -1,9 +1,5 @@
 <template>
-	<v-navigation-drawer class="bg-blue-grey-darken-4"
-	expand-on-hover
-	rail
-	app
->
+	<v-navigation-drawer class="bg-blue-grey-darken-4" app>
 	<v-list>
 		<v-list-item
 			prepend-avatar="https://randomuser.me/api/portraits/men/85.jpg"
